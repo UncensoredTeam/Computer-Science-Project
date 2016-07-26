@@ -1,0 +1,42 @@
+C:\Users\Wongsathon\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\bin\Debug\ControlMachine.exe.config
+C:\Users\Wongsathon\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\bin\Debug\ControlMachine.exe
+C:\Users\Wongsathon\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\bin\Debug\ControlMachine.pdb
+C:\Users\Wongsathon\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.Properties.Resources.resources
+C:\Users\Wongsathon\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.csproj.GenerateResource.Cache
+C:\Users\Wongsathon\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.exe
+C:\Users\Wongsathon\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.pdb
+C:\Users\Wongsathon\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.frm_main.resources
+C:\Users\Aum\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\bin\Debug\ControlMachine.exe.config
+C:\Users\Aum\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.exe
+C:\Users\Aum\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.pdb
+C:\Users\Aum\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\bin\Debug\ControlMachine.exe
+C:\Users\Aum\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\bin\Debug\ControlMachine.pdb
+C:\Users\Aum\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.csprojResolveAssemblyReference.cache
+C:\Users\Aum\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.frm_main.resources
+C:\Users\Aum\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.Properties.Resources.resources
+C:\Users\Aum\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.csproj.GenerateResource.Cache
+C:\Users\Wongsathon\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.frm_Current_Value.resources
+C:\Users\Wongsathon\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.RealTimeSample.resources
+C:\Users\Wongsathon\Dropbox (Uncensored)\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.csprojResolveAssemblyReference.cache
+C:\Users\Wongsathon\Documents\GitHub\My-Computer-Science-Project\ControlMachine\ControlMachine\bin\Debug\ControlMachine.exe.config
+C:\Users\Wongsathon\Documents\GitHub\My-Computer-Science-Project\ControlMachine\ControlMachine\obj\Debug\ControlMachine.exe
+C:\Users\Wongsathon\Documents\GitHub\My-Computer-Science-Project\ControlMachine\ControlMachine\obj\Debug\ControlMachine.pdb
+C:\Users\Wongsathon\Documents\GitHub\My-Computer-Science-Project\ControlMachine\ControlMachine\bin\Debug\ControlMachine.exe
+C:\Users\Wongsathon\Documents\GitHub\My-Computer-Science-Project\ControlMachine\ControlMachine\bin\Debug\ControlMachine.pdb
+C:\Users\Wongsathon\Documents\GitHub\My-Computer-Science-Project\ControlMachine\ControlMachine\obj\Debug\ControlMachine.frm_Current_Value.resources
+C:\Users\Wongsathon\Documents\GitHub\My-Computer-Science-Project\ControlMachine\ControlMachine\obj\Debug\ControlMachine.frm_main.resources
+C:\Users\Wongsathon\Documents\GitHub\My-Computer-Science-Project\ControlMachine\ControlMachine\obj\Debug\ControlMachine.Properties.Resources.resources
+C:\Users\Wongsathon\Documents\GitHub\My-Computer-Science-Project\ControlMachine\ControlMachine\obj\Debug\ControlMachine.csproj.GenerateResource.Cache
+C:\Users\Wongsathon\Documents\GitHub\My-Computer-Science-Project\ControlMachine\ControlMachine\obj\Debug\ControlMachine.RealTimeSample.resources
+C:\Users\Wongsathon\Documents\GitHub\My-Computer-Science-Project\ControlMachine\ControlMachine\obj\Debug\ControlMachine.csprojResolveAssemblyReference.cache
+C:\Users\Aum\Dropbox\Uncensored team folder\ControlMachine\ControlMachine\bin\Debug\ControlMachine.exe.config
+C:\Users\Aum\Dropbox\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.exe
+C:\Users\Aum\Dropbox\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.pdb
+C:\Users\Aum\Dropbox\Uncensored team folder\ControlMachine\ControlMachine\bin\Debug\ControlMachine.exe
+C:\Users\Aum\Dropbox\Uncensored team folder\ControlMachine\ControlMachine\bin\Debug\ControlMachine.pdb
+C:\Users\Aum\Dropbox\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.csprojResolveAssemblyReference.cache
+C:\Users\Aum\Dropbox\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.frm_Current_Value.resources
+C:\Users\Aum\Dropbox\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.frm_main.resources
+C:\Users\Aum\Dropbox\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.Properties.Resources.resources
+C:\Users\Aum\Dropbox\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.RealTimeSample.resources
+C:\Users\Aum\Dropbox\Uncensored team folder\ControlMachine\ControlMachine\obj\Debug\ControlMachine.csproj.GenerateResource.Cache
